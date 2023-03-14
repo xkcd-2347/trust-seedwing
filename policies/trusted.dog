@@ -1,0 +1,3 @@
+pattern gav = maven::GAV(
+  data::lookup<"trusted/gav.json", [*self.groupId, *self.artifactId, *self.version]>
+)
