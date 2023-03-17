@@ -1,0 +1,47 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: seedwing-policy-server
+  name: seedwing-policy-server
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: seedwing-policy-server
+  template:
+    metadata:
+      labels:
+        app: seedwing-policy-server
+    spec:
+      containers:
+        - image: ghcr.io/seedwing-io/swio:0.1.0-nightly.806ac087
+          imagePullPolicy: IfNotPresent
+          name: seedwing-policy-server
+          command: ["/swio"]
+          args: ["serve", "-p", "/policies", "-d", "/data"]
+          ports:
+            - containerPort: 8080
+              protocol: TCP
+          livenessProbe:
+            httpGet:
+              path: /metrics
+              port: 8080
+            initialDelaySeconds: 10
+          readinessProbe:
+            httpGet:
+              path: /metrics
+              port: 8080
+            initialDelaySeconds: 10
+          volumeMounts:
+            - name: data
+              mountPath: /data
+            - name: policies
+              mountPath: /policies
+      volumes:
+        - name: data
+          configMap:
+            name: seedwing-data
+        - name: policies
+          configMap:
+            name: seedwing-policies

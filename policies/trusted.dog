@@ -1,4 +1,4 @@
 /// Find the trusted version for a given maven artifact
 pattern gav = lang::map<maven::GAV(
-  data::lookup<"trusted/gav.json", [*self.groupId, *self.artifactId, *self.version]>
+  data::lookup<"trusted-gav.json", [*self.groupId, *self.artifactId, *self.version]>
 )>
