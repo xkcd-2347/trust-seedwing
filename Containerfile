@@ -1,4 +1,4 @@
-FROM ghcr.io/seedwing-io/swio:0.1.0-nightly.806ac087
+FROM ghcr.io/seedwing-io/swio:0.1.0-nightly.273eeb38
 
 ADD data /data
 ADD policies /policies

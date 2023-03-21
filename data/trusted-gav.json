@@ -7,5 +7,2192 @@
         "version": "1.2-redhat-007"
       }
     }
+  },
+  "mysql": {
+    "mysql-connector-java": {
+      "8.0.30.redhat-00001": {
+        "groupId": "mysql",
+        "artifactId": "mysql-connector-java",
+        "version": "8.0.30.redhat-00001"
+      }
+    }
+  },
+  "commons-net": {
+    "commons-net": {
+      "3.8.0.redhat-00001": {
+        "groupId": "commons-net",
+        "artifactId": "commons-net",
+        "version": "3.8.0.redhat-00001"
+      }
+    }
+  },
+  "software.amazon.eventstream": {
+    "eventstream": {
+      "1.0.1.redhat-00001": {
+        "groupId": "software.amazon.eventstream",
+        "artifactId": "eventstream",
+        "version": "1.0.1.redhat-00001"
+      }
+    }
+  },
+  "software.amazon.awssdk": {
+    "services": {
+      "2.17.291.redhat-00001": {
+        "groupId": "software.amazon.awssdk",
+        "artifactId": "services",
+        "version": "2.17.291.redhat-00001"
+      }
+    }
+  },
+  "org.xerial.snappy": {
+    "snappy-java": {
+      "1.1.8.4": {
+        "groupId": "org.xerial.snappy",
+        "artifactId": "snappy-java",
+        "version": "1.1.8.4-redhat-00002"
+      }
+    }
+  },
+  "org.jboss.weld": {
+    "weld-api": {
+      "3.1.0.SP4": {
+        "groupId": "org.jboss.weld",
+        "artifactId": "weld-api",
+        "version": "3.1.0.SP4-redhat-00001"
+      }
+    }
+  },
+  "org.jboss.logging": {
+    "jboss-logging-annotations": {
+      "2.2.1.Final": {
+        "groupId": "org.jboss.logging",
+        "artifactId": "jboss-logging-annotations",
+        "version": "2.2.1.Final-redhat-00001"
+      }
+    }
+  },
+  "org.jboss": {
+    "jboss-transaction-spi": {
+      "7.6.0.Final": {
+        "groupId": "org.jboss",
+        "artifactId": "jboss-transaction-spi",
+        "version": "7.6.0.Final-redhat-1"
+      }
+    }
+  },
+  "org.jboss.threads": {
+    "jboss-threads": {
+      "3.4.3.Final": {
+        "groupId": "org.jboss.threads",
+        "artifactId": "jboss-threads",
+        "version": "3.4.3.Final-redhat-00001"
+      }
+    }
+  },
+  "org.jboss.narayana": {
+    "narayana-all": {
+      "5.13.1.Final": {
+        "groupId": "org.jboss.narayana",
+        "artifactId": "narayana-all",
+        "version": "5.13.1.Final-redhat-00001"
+      }
+    }
+  },
+  "org.jboss.narayana.jta": {
+    "narayana-jta-all": {
+      "5.13.1.Final": {
+        "groupId": "org.jboss.narayana.jta",
+        "artifactId": "narayana-jta-all",
+        "version": "5.13.1.Final-redhat-00001"
+      }
+    }
+  },
+  "org.jboss.narayana.jts": {
+    "narayana-jts-all": {
+      "5.13.1.Final": {
+        "groupId": "org.jboss.narayana.jts",
+        "artifactId": "narayana-jts-all",
+        "version": "5.13.1.Final-redhat-00001"
+      }
+    }
+  },
+  "org.jboss.slf4j": {
+    "slf4j-jboss-logmanager": {
+      "1.2.0.Final": {
+        "groupId": "org.jboss.slf4j",
+        "artifactId": "slf4j-jboss-logmanager",
+        "version": "1.2.0.Final-redhat-00001"
+      }
+    }
+  },
+  "org.jboss.resteasy": {
+    "resteasy-core-spi": {
+      "4.7.7.Final": {
+        "groupId": "org.jboss.resteasy",
+        "artifactId": "resteasy-core-spi",
+        "version": "4.7.7.Final-redhat-00003"
+      }
+    }
+  },
+  "org.jboss.spec.javax.interceptor": {
+    "jboss-interceptors-api_1.2_spec": {
+      "2.0.0.Final": {
+        "groupId": "org.jboss.spec.javax.interceptor",
+        "artifactId": "jboss-interceptors-api_1.2_spec",
+        "version": "2.0.0.Final-redhat-00002"
+      }
+    }
+  },
+  "org.jboss.spec.javax.el": {
+    "jboss-el-api_3.0_spec": {
+      "2.0.0.Final": {
+        "groupId": "org.jboss.spec.javax.el",
+        "artifactId": "jboss-el-api_3.0_spec",
+        "version": "2.0.0.Final-redhat-00001"
+      }
+    }
+  },
+  "org.jboss.spec.javax.xml.bind": {
+    "jboss-jaxb-api_2.3_spec-parent": {
+      "2.0.0.Final": {
+        "groupId": "org.jboss.spec.javax.xml.bind",
+        "artifactId": "jboss-jaxb-api_2.3_spec-parent",
+        "version": "2.0.0.Final-redhat-00001"
+      }
+    }
+  },
+  "org.jboss.spec.javax.ws.rs": {
+    "jboss-jaxrs-api_2.1_spec": {
+      "2.0.1.Final": {
+        "groupId": "org.jboss.spec.javax.ws.rs",
+        "artifactId": "jboss-jaxrs-api_2.1_spec",
+        "version": "2.0.1.Final-redhat-00001"
+      }
+    }
+  },
+  "org.jboss.logmanager": {
+    "jboss-logmanager-embedded": {
+      "1.0.10.redhat-00001": {
+        "groupId": "org.jboss.logmanager",
+        "artifactId": "jboss-logmanager-embedded",
+        "version": "1.0.10.redhat-00001"
+      }
+    }
+  },
+  "org.jboss.shrinkwrap": {
+    "shrinkwrap-bom": {
+      "1.2.6.redhat-118": {
+        "groupId": "org.jboss.shrinkwrap",
+        "artifactId": "shrinkwrap-bom",
+        "version": "1.2.6.redhat-118"
+      }
+    }
+  },
+  "org.jboss.component.management": {
+    "jboss-dependency-management-all": {
+      "6.0.1": {
+        "groupId": "org.jboss.component.management",
+        "artifactId": "jboss-dependency-management-all",
+        "version": "6.0.1-redhat-1"
+      }
+    }
+  },
+  "org.jboss.metadata": {
+    "jboss-metadata-common": {
+      "15.1.0.Final": {
+        "groupId": "org.jboss.metadata",
+        "artifactId": "jboss-metadata-common",
+        "version": "15.1.0.Final-redhat-00001"
+      }
+    }
+  },
+  "org.infinispan": {
+    "infinispan-remote-query-client": {
+      "13.0.11.Final": {
+        "groupId": "org.infinispan",
+        "artifactId": "infinispan-remote-query-client",
+        "version": "13.0.11.Final-redhat-00001"
+      }
+    }
+  },
+  "org.infinispan.protostream": {
+    "protostream-types": {
+      "4.4.3.Final": {
+        "groupId": "org.infinispan.protostream",
+        "artifactId": "protostream-types",
+        "version": "4.4.3.Final-redhat-00001"
+      }
+    }
+  },
+  "org.aesh": {
+    "aesh-all": {
+      "2.6.0.redhat-00001": {
+        "groupId": "org.aesh",
+        "artifactId": "aesh-all",
+        "version": "2.6.0.redhat-00001"
+      }
+    }
+  },
+  "org.hibernate.search": {
+    "hibernate-search-engine": {
+      "6.1.7.Final": {
+        "groupId": "org.hibernate.search",
+        "artifactId": "hibernate-search-engine",
+        "version": "6.1.7.Final-redhat-00002"
+      }
+    }
+  },
+  "org.hibernate": {
+    "quarkus-local-cache-parent": {
+      "0.1.1.redhat-00002": {
+        "groupId": "org.hibernate",
+        "artifactId": "quarkus-local-cache-parent",
+        "version": "0.1.1.redhat-00002"
+      }
+    }
+  },
+  "org.hibernate.reactive": {
+    "hibernate-reactive-core": {
+      "1.1.8.Final": {
+        "groupId": "org.hibernate.reactive",
+        "artifactId": "hibernate-reactive-core",
+        "version": "1.1.8.Final-redhat-00001"
+      }
+    }
+  },
+  "org.hibernate.common": {
+    "hibernate-commons-annotations": {
+      "5.1.2.Final": {
+        "groupId": "org.hibernate.common",
+        "artifactId": "hibernate-commons-annotations",
+        "version": "5.1.2.Final-redhat-00005"
+      }
+    }
+  },
+  "org.hibernate.validator": {
+    "hibernate-validator": {
+      "6.2.5.Final": {
+        "groupId": "org.hibernate.validator",
+        "artifactId": "hibernate-validator",
+        "version": "6.2.5.Final-redhat-00001"
+      }
+    }
+  },
+  "org.ow2.asm": {
+    "asm-util": {
+      "9.3.0.redhat-00001": {
+        "groupId": "org.ow2.asm",
+        "artifactId": "asm-util",
+        "version": "9.3.0.redhat-00001"
+      }
+    }
+  },
+  "org.snakeyaml": {
+    "snakeyaml-engine": {
+      "2.3.0.redhat-00001": {
+        "groupId": "org.snakeyaml",
+        "artifactId": "snakeyaml-engine",
+        "version": "2.3.0.redhat-00001"
+      }
+    }
+  },
+  "org.hamcrest": {
+    "hamcrest-parent": {
+      "1.3": {
+        "groupId": "org.hamcrest",
+        "artifactId": "hamcrest-parent",
+        "version": "1.3-redhat-1"
+      }
+    }
+  },
+  "org.hdrhistogram": {
+    "HdrHistogram": {
+      "2.1.12.redhat-00001": {
+        "groupId": "org.hdrhistogram",
+        "artifactId": "HdrHistogram",
+        "version": "2.1.12.redhat-00001"
+      }
+    }
+  },
+  "org.mariadb.jdbc": {
+    "mariadb-java-client": {
+      "3.0.8.redhat-00001": {
+        "groupId": "org.mariadb.jdbc",
+        "artifactId": "mariadb-java-client",
+        "version": "3.0.8.redhat-00001"
+      }
+    }
+  },
+  "org.jfree": {
+    "jfreechart": {
+      "1.5.4.redhat-00002": {
+        "groupId": "org.jfree",
+        "artifactId": "jfreechart",
+        "version": "1.5.4.redhat-00002"
+      }
+    }
+  },
+  "org.elasticsearch.client": {
+    "elasticsearch-rest-client-sniffer": {
+      "8.4.3.redhat-00002": {
+        "groupId": "org.elasticsearch.client",
+        "artifactId": "elasticsearch-rest-client-sniffer",
+        "version": "8.4.3.redhat-00002"
+      }
+    }
+  },
+  "org.jasypt": {
+    "jasypt": {
+      "1.9.3.redhat-00002": {
+        "groupId": "org.jasypt",
+        "artifactId": "jasypt",
+        "version": "1.9.3.redhat-00002"
+      }
+    }
+  },
+  "org.lz4": {
+    "lz4-java": {
+      "1.8.0.redhat-00002": {
+        "groupId": "org.lz4",
+        "artifactId": "lz4-java",
+        "version": "1.8.0.redhat-00002"
+      }
+    }
+  },
+  "org.drools": {
+    "drools-commands": {
+      "8.29.0.Final": {
+        "groupId": "org.drools",
+        "artifactId": "drools-commands",
+        "version": "8.29.0.Final-redhat-00013"
+      }
+    }
+  },
+  "org.postgresql": {
+    "postgresql": {
+      "42.5.1.redhat-00001": {
+        "groupId": "org.postgresql",
+        "artifactId": "postgresql",
+        "version": "42.5.1.redhat-00001"
+      }
+    }
+  },
+  "org.slf4j": {
+    "slf4j-api": {
+      "1.7.36.redhat-00002": {
+        "groupId": "org.slf4j",
+        "artifactId": "slf4j-api",
+        "version": "1.7.36.redhat-00002"
+      }
+    }
+  },
+  "org.jooq": {
+    "joor": {
+      "0.9.14.redhat-00001": {
+        "groupId": "org.jooq",
+        "artifactId": "joor",
+        "version": "0.9.14.redhat-00001"
+      }
+    }
+  },
+  "org.wildfly.security": {
+    "wildfly-elytron-sasl-gs2": {
+      "1.20.1.Final": {
+        "groupId": "org.wildfly.security",
+        "artifactId": "wildfly-elytron-sasl-gs2",
+        "version": "1.20.1.Final-redhat-00001"
+      }
+    }
+  },
+  "org.wildfly.common": {
+    "wildfly-common": {
+      "1.5.0.Final-format-001": {
+        "groupId": "org.wildfly.common",
+        "artifactId": "wildfly-common",
+        "version": "1.5.0.Final-format-001-redhat-00001"
+      }
+    }
+  },
+  "org.yaml": {
+    "snakeyaml": {
+      "1.33.0.redhat-00001": {
+        "groupId": "org.yaml",
+        "artifactId": "snakeyaml",
+        "version": "1.33.0.redhat-00001"
+      }
+    }
+  },
+  "org.latencyutils": {
+    "LatencyUtils": {
+      "2.0.3.redhat-00001": {
+        "groupId": "org.latencyutils",
+        "artifactId": "LatencyUtils",
+        "version": "2.0.3.redhat-00001"
+      }
+    }
+  },
+  "org.codehaus.woodstox": {
+    "stax2-api": {
+      "4.2.0.redhat-00001": {
+        "groupId": "org.codehaus.woodstox",
+        "artifactId": "stax2-api",
+        "version": "4.2.0.redhat-00001"
+      }
+    }
+  },
+  "org.codehaus.plexus": {
+    "plexus-utils": {
+      "3.3.0.redhat-00001": {
+        "groupId": "org.codehaus.plexus",
+        "artifactId": "plexus-utils",
+        "version": "3.3.0.redhat-00001"
+      }
+    }
+  },
+  "org.jvnet.staxex": {
+    "stax-ex": {
+      "1.8.3.redhat-00003": {
+        "groupId": "org.jvnet.staxex",
+        "artifactId": "stax-ex",
+        "version": "1.8.3.redhat-00003"
+      }
+    }
+  },
+  "org.jvnet.mimepull": {
+    "mimepull": {
+      "1.9.14.redhat-00001": {
+        "groupId": "org.jvnet.mimepull",
+        "artifactId": "mimepull",
+        "version": "1.9.14.redhat-00001"
+      }
+    }
+  },
+  "org.bitbucket.b_c": {
+    "jose4j": {
+      "0.8.0.redhat-00001": {
+        "groupId": "org.bitbucket.b_c",
+        "artifactId": "jose4j",
+        "version": "0.8.0.redhat-00001"
+      }
+    }
+  },
+  "org.eclipse": {
+    "yasson": {
+      "1.0.11.redhat-00002": {
+        "groupId": "org.eclipse",
+        "artifactId": "yasson",
+        "version": "1.0.11.redhat-00002"
+      }
+    }
+  },
+  "org.eclipse.paho": {
+    "org.eclipse.paho.mqttv5.client": {
+      "1.2.5.redhat-00001": {
+        "groupId": "org.eclipse.paho",
+        "artifactId": "org.eclipse.paho.mqttv5.client",
+        "version": "1.2.5.redhat-00001"
+      }
+    }
+  },
+  "org.eclipse.ee4j": {
+    "project": {
+      "1.0.5.redhat-00001": {
+        "groupId": "org.eclipse.ee4j",
+        "artifactId": "project",
+        "version": "1.0.5.redhat-00001"
+      }
+    }
+  },
+  "org.eclipse.jetty": {
+    "jetty-util": {
+      "9.4.49.v20220914": {
+        "groupId": "org.eclipse.jetty",
+        "artifactId": "jetty-util",
+        "version": "9.4.49.v20220914-redhat-00001"
+      }
+    }
+  },
+  "org.eclipse.microprofile.graphql": {
+    "microprofile-graphql-parent": {
+      "1.1.0.redhat-00008": {
+        "groupId": "org.eclipse.microprofile.graphql",
+        "artifactId": "microprofile-graphql-parent",
+        "version": "1.1.0.redhat-00008"
+      }
+    }
+  },
+  "org.eclipse.microprofile.config": {
+    "microprofile-config-api": {
+      "2.0.1.redhat-00001": {
+        "groupId": "org.eclipse.microprofile.config",
+        "artifactId": "microprofile-config-api",
+        "version": "2.0.1.redhat-00001"
+      }
+    }
+  },
+  "org.eclipse.microprofile.health": {
+    "microprofile-health-parent": {
+      "3.1.0.redhat-00002": {
+        "groupId": "org.eclipse.microprofile.health",
+        "artifactId": "microprofile-health-parent",
+        "version": "3.1.0.redhat-00002"
+      }
+    }
+  },
+  "org.eclipse.microprofile": {
+    "microprofile-parent": {
+      "1.2.0.redhat-00002": {
+        "groupId": "org.eclipse.microprofile",
+        "artifactId": "microprofile-parent",
+        "version": "1.2.0.redhat-00002"
+      }
+    }
+  },
+  "org.eclipse.microprofile.fault-tolerance": {
+    "microprofile-fault-tolerance-parent": {
+      "3.0.0.redhat-00002": {
+        "groupId": "org.eclipse.microprofile.fault-tolerance",
+        "artifactId": "microprofile-fault-tolerance-parent",
+        "version": "3.0.0.redhat-00002"
+      }
+    }
+  },
+  "org.eclipse.microprofile.jwt": {
+    "microprofile-jwt-auth-parent": {
+      "1.2.0.redhat-00002": {
+        "groupId": "org.eclipse.microprofile.jwt",
+        "artifactId": "microprofile-jwt-auth-parent",
+        "version": "1.2.0.redhat-00002"
+      }
+    }
+  },
+  "org.eclipse.microprofile.openapi": {
+    "microprofile-openapi-parent": {
+      "2.0.1.redhat-00001": {
+        "groupId": "org.eclipse.microprofile.openapi",
+        "artifactId": "microprofile-openapi-parent",
+        "version": "2.0.1.redhat-00001"
+      }
+    }
+  },
+  "org.eclipse.microprofile.context-propagation": {
+    "microprofile-context-propagation-api": {
+      "1.2.0.redhat-00010": {
+        "groupId": "org.eclipse.microprofile.context-propagation",
+        "artifactId": "microprofile-context-propagation-api",
+        "version": "1.2.0.redhat-00010"
+      }
+    }
+  },
+  "org.eclipse.microprofile.rest.client": {
+    "microprofile-rest-client-parent": {
+      "2.0.0.redhat-00003": {
+        "groupId": "org.eclipse.microprofile.rest.client",
+        "artifactId": "microprofile-rest-client-parent",
+        "version": "2.0.0.redhat-00003"
+      }
+    }
+  },
+  "org.eclipse.microprofile.opentracing": {
+    "microprofile-opentracing-parent": {
+      "2.0.0.redhat-00002": {
+        "groupId": "org.eclipse.microprofile.opentracing",
+        "artifactId": "microprofile-opentracing-parent",
+        "version": "2.0.0.redhat-00002"
+      }
+    }
+  },
+  "org.eclipse.microprofile.reactive-streams-operators": {
+    "microprofile-reactive-streams-operators-parent": {
+      "1.0.1.redhat-00001": {
+        "groupId": "org.eclipse.microprofile.reactive-streams-operators",
+        "artifactId": "microprofile-reactive-streams-operators-parent",
+        "version": "1.0.1.redhat-00001"
+      }
+    }
+  },
+  "org.eclipse.microprofile.metrics": {
+    "microprofile-metrics-api": {
+      "3.0.1.redhat-00001": {
+        "groupId": "org.eclipse.microprofile.metrics",
+        "artifactId": "microprofile-metrics-api",
+        "version": "3.0.1.redhat-00001"
+      }
+    }
+  },
+  "org.antlr": {
+    "antlr4-runtime": {
+      "4.9.2.redhat-00002": {
+        "groupId": "org.antlr",
+        "artifactId": "antlr4-runtime",
+        "version": "4.9.2.redhat-00002"
+      }
+    }
+  },
+  "org.sonatype.oss": {
+    "oss-parent": {
+      "9.0.0.redhat-2": {
+        "groupId": "org.sonatype.oss",
+        "artifactId": "oss-parent",
+        "version": "9.0.0.redhat-2"
+      }
+    }
+  },
+  "org.scala-lang.modules": {
+    "scala-collection-compat_2.13": {
+      "2.6.0.redhat-00001": {
+        "groupId": "org.scala-lang.modules",
+        "artifactId": "scala-collection-compat_2.13",
+        "version": "2.6.0.redhat-00001"
+      }
+    }
+  },
+  "org.graalvm.nativeimage": {
+    "svm": {
+      "22.3.1.0-1": {
+        "groupId": "org.graalvm.nativeimage",
+        "artifactId": "svm",
+        "version": "22.3.1.0-1-redhat-00001"
+      }
+    }
+  },
+  "org.graalvm.sdk": {
+    "graal-sdk": {
+      "22.3.1.0-1": {
+        "groupId": "org.graalvm.sdk",
+        "artifactId": "graal-sdk",
+        "version": "22.3.1.0-1-redhat-00001"
+      }
+    }
+  },
+  "org.quartz-scheduler": {
+    "quartz": {
+      "2.3.2.redhat-00007": {
+        "groupId": "org.quartz-scheduler",
+        "artifactId": "quartz",
+        "version": "2.3.2.redhat-00007"
+      }
+    }
+  },
+  "org.freemarker": {
+    "freemarker": {
+      "2.3.31.redhat-00001": {
+        "groupId": "org.freemarker",
+        "artifactId": "freemarker",
+        "version": "2.3.31.redhat-00001"
+      }
+    }
+  },
+  "org.optaplanner": {
+    "optaplanner-quarkus-jackson-deployment": {
+      "8.33.0.Final": {
+        "groupId": "org.optaplanner",
+        "artifactId": "optaplanner-quarkus-jackson-deployment",
+        "version": "8.33.0.Final-redhat-00004"
+      }
+    }
+  },
+  "org.glassfish.jaxb": {
+    "txw2": {
+      "2.3.3.b02": {
+        "groupId": "org.glassfish.jaxb",
+        "artifactId": "txw2",
+        "version": "2.3.3.b02-redhat-00001"
+      }
+    }
+  },
+  "org.glassfish": {
+    "jakarta.json": {
+      "1.1.6.redhat-00003": {
+        "groupId": "org.glassfish",
+        "artifactId": "jakarta.json",
+        "version": "1.1.6.redhat-00003"
+      }
+    }
+  },
+  "org.cometd": {
+    "cometd-project": {
+      "4.0.4.redhat-00001": {
+        "groupId": "org.cometd",
+        "artifactId": "cometd-project",
+        "version": "4.0.4.redhat-00001"
+      }
+    }
+  },
+  "org.cometd.java": {
+    "cometd-java": {
+      "4.0.4.redhat-00001": {
+        "groupId": "org.cometd.java",
+        "artifactId": "cometd-java",
+        "version": "4.0.4.redhat-00001"
+      }
+    }
+  },
+  "org.kie": {
+    "kie-drl": {
+      "8.29.0.Final": {
+        "groupId": "org.kie",
+        "artifactId": "kie-drl",
+        "version": "8.29.0.Final-redhat-00013"
+      }
+    }
+  },
+  "org.apache.thrift": {
+    "libthrift": {
+      "0.15.0.redhat-00001": {
+        "groupId": "org.apache.thrift",
+        "artifactId": "libthrift",
+        "version": "0.15.0.redhat-00001"
+      }
+    }
+  },
+  "org.apache.camel": {
+    "camel-google-bigquery": {
+      "3.18.3.redhat-00024": {
+        "groupId": "org.apache.camel",
+        "artifactId": "camel-google-bigquery",
+        "version": "3.18.3.redhat-00024"
+      }
+    }
+  },
+  "org.apache.camel.quarkus": {
+    "camel-quarkus-poms": {
+      "2.13.2.redhat-00004": {
+        "groupId": "org.apache.camel.quarkus",
+        "artifactId": "camel-quarkus-poms",
+        "version": "2.13.2.redhat-00004"
+      }
+    }
+  },
+  "org.apache.commons": {
+    "commons-text": {
+      "1.10.0.redhat-00001": {
+        "groupId": "org.apache.commons",
+        "artifactId": "commons-text",
+        "version": "1.10.0.redhat-00001"
+      }
+    }
+  },
+  "org.apache.tomcat": {
+    "tomcat-parent": {
+      "9.0.21.redhat-5": {
+        "groupId": "org.apache.tomcat",
+        "artifactId": "tomcat-parent",
+        "version": "9.0.21.redhat-5"
+      }
+    }
+  },
+  "org.apache.james": {
+    "apache-mime4j-project": {
+      "0.8.3.redhat-00008": {
+        "groupId": "org.apache.james",
+        "artifactId": "apache-mime4j-project",
+        "version": "0.8.3.redhat-00008"
+      }
+    }
+  },
+  "org.apache.neethi": {
+    "neethi": {
+      "3.2.0.redhat-00001": {
+        "groupId": "org.apache.neethi",
+        "artifactId": "neethi",
+        "version": "3.2.0.redhat-00001"
+      }
+    }
+  },
+  "org.apache.logging.log4j": {
+    "log4j-bom": {
+      "2.19.0.redhat-00001": {
+        "groupId": "org.apache.logging.log4j",
+        "artifactId": "log4j-bom",
+        "version": "2.19.0.redhat-00001"
+      }
+    }
+  },
+  "org.apache.avro": {
+    "avro-parent": {
+      "1.11.1.redhat-00002": {
+        "groupId": "org.apache.avro",
+        "artifactId": "avro-parent",
+        "version": "1.11.1.redhat-00002"
+      }
+    }
+  },
+  "org.apache.qpid": {
+    "proton-j-parent": {
+      "0.34.0.redhat-00001": {
+        "groupId": "org.apache.qpid",
+        "artifactId": "proton-j-parent",
+        "version": "0.34.0.redhat-00001"
+      }
+    }
+  },
+  "org.apache.maven.plugin-tools": {
+    "maven-plugin-tools": {
+      "3.6.0.redhat-00002": {
+        "groupId": "org.apache.maven.plugin-tools",
+        "artifactId": "maven-plugin-tools",
+        "version": "3.6.0.redhat-00002"
+      }
+    }
+  },
+  "org.apache.wss4j": {
+    "wss4j-ws-security-dom": {
+      "2.4.1.redhat-00005": {
+        "groupId": "org.apache.wss4j",
+        "artifactId": "wss4j-ws-security-dom",
+        "version": "2.4.1.redhat-00005"
+      }
+    }
+  },
+  "org.apache.geronimo.specs": {
+    "geronimo-ws-metadata_2.0_spec": {
+      "1.1.3.redhat-00001": {
+        "groupId": "org.apache.geronimo.specs",
+        "artifactId": "geronimo-ws-metadata_2.0_spec",
+        "version": "1.1.3.redhat-00001"
+      }
+    }
+  },
+  "org.apache.httpcomponents": {
+    "httpcomponents-core": {
+      "4.4.15.redhat-00003": {
+        "groupId": "org.apache.httpcomponents",
+        "artifactId": "httpcomponents-core",
+        "version": "4.4.15.redhat-00003"
+      }
+    }
+  },
+  "org.apache.cxf": {
+    "cxf-rt-management": {
+      "3.5.5.redhat-00001": {
+        "groupId": "org.apache.cxf",
+        "artifactId": "cxf-rt-management",
+        "version": "3.5.5.redhat-00001"
+      }
+    }
+  },
+  "org.apache.cxf.services.sts": {
+    "cxf-services-sts-core": {
+      "3.5.5.redhat-00001": {
+        "groupId": "org.apache.cxf.services.sts",
+        "artifactId": "cxf-services-sts-core",
+        "version": "3.5.5.redhat-00001"
+      }
+    }
+  },
+  "org.apache.velocity": {
+    "velocity-master": {
+      "4.0.0.redhat-00001": {
+        "groupId": "org.apache.velocity",
+        "artifactId": "velocity-master",
+        "version": "4.0.0.redhat-00001"
+      }
+    }
+  },
+  "org.apache.sshd": {
+    "sshd": {
+      "2.9.2.redhat-00001": {
+        "groupId": "org.apache.sshd",
+        "artifactId": "sshd",
+        "version": "2.9.2.redhat-00001"
+      }
+    }
+  },
+  "org.apache.zookeeper": {
+    "zookeeper": {
+      "3.6.3.redhat-00040": {
+        "groupId": "org.apache.zookeeper",
+        "artifactId": "zookeeper",
+        "version": "3.6.3.redhat-00040"
+      }
+    }
+  },
+  "org.apache.yetus": {
+    "audience-annotations": {
+      "0.5.0.redhat-00002": {
+        "groupId": "org.apache.yetus",
+        "artifactId": "audience-annotations",
+        "version": "0.5.0.redhat-00002"
+      }
+    }
+  },
+  "org.apache.ws.xmlschema": {
+    "xmlschema-core": {
+      "2.3.0.redhat-00001": {
+        "groupId": "org.apache.ws.xmlschema",
+        "artifactId": "xmlschema-core",
+        "version": "2.3.0.redhat-00001"
+      }
+    }
+  },
+  "org.apache": {
+    "apache": {
+      "16.0.0.redhat-5": {
+        "groupId": "org.apache",
+        "artifactId": "apache",
+        "version": "16.0.0.redhat-5"
+      }
+    }
+  },
+  "org.apache.kafka": {
+    "kafka_2.13": {
+      "3.2.3.redhat-00007": {
+        "groupId": "org.apache.kafka",
+        "artifactId": "kafka_2.13",
+        "version": "3.2.3.redhat-00007"
+      }
+    }
+  },
+  "org.amqphub.quarkus": {
+    "quarkus-qpid-jms-bom": {
+      "0.38.0.redhat-00010": {
+        "groupId": "org.amqphub.quarkus",
+        "artifactId": "quarkus-qpid-jms-bom",
+        "version": "0.38.0.redhat-00010"
+      }
+    }
+  },
+  "org.jsoup": {
+    "jsoup": {
+      "1.15.3.redhat-00001": {
+        "groupId": "org.jsoup",
+        "artifactId": "jsoup",
+        "version": "1.15.3.redhat-00001"
+      }
+    }
+  },
+  "org.rocksdb": {
+    "rocksdbjni": {
+      "6.29.4.redhat-00003": {
+        "groupId": "org.rocksdb",
+        "artifactId": "rocksdbjni",
+        "version": "6.29.4.redhat-00003"
+      }
+    }
+  },
+  "org.messaginghub": {
+    "pooled-jms": {
+      "2.0.4.redhat-00001": {
+        "groupId": "org.messaginghub",
+        "artifactId": "pooled-jms",
+        "version": "2.0.4.redhat-00001"
+      }
+    }
+  },
+  "org.reactivestreams": {
+    "reactive-streams": {
+      "1.0.3.redhat-00003": {
+        "groupId": "org.reactivestreams",
+        "artifactId": "reactive-streams",
+        "version": "1.0.3.redhat-00003"
+      }
+    }
+  },
+  "org.fusesource.jansi": {
+    "jansi-project": {
+      "1.18.0.redhat-00001": {
+        "groupId": "org.fusesource.jansi",
+        "artifactId": "jansi-project",
+        "version": "1.18.0.redhat-00001"
+      }
+    }
+  },
+  "org.fusesource": {
+    "fusesource-pom": {
+      "1.11.0.redhat-1": {
+        "groupId": "org.fusesource",
+        "artifactId": "fusesource-pom",
+        "version": "1.11.0.redhat-1"
+      }
+    }
+  },
+  "org.keycloak": {
+    "keycloak-admin-client": {
+      "18.0.0.redhat-00001": {
+        "groupId": "org.keycloak",
+        "artifactId": "keycloak-admin-client",
+        "version": "18.0.0.redhat-00001"
+      }
+    }
+  },
+  "com.slack.api": {
+    "slack-sdk-parent": {
+      "1.8.1.redhat-00001": {
+        "groupId": "com.slack.api",
+        "artifactId": "slack-sdk-parent",
+        "version": "1.8.1.redhat-00001"
+      }
+    }
+  },
+  "com.datastax.oss": {
+    "java-driver-query-builder": {
+      "4.14.0.redhat-00006": {
+        "groupId": "com.datastax.oss",
+        "artifactId": "java-driver-query-builder",
+        "version": "4.14.0.redhat-00006"
+      }
+    }
+  },
+  "com.datastax.oss.quarkus": {
+    "cassandra-quarkus-bom": {
+      "1.1.2.redhat-00008": {
+        "groupId": "com.datastax.oss.quarkus",
+        "artifactId": "cassandra-quarkus-bom",
+        "version": "1.1.2.redhat-00008"
+      }
+    }
+  },
+  "com.ongres.scram": {
+    "common": {
+      "2.1.0.redhat-00002": {
+        "groupId": "com.ongres.scram",
+        "artifactId": "common",
+        "version": "2.1.0.redhat-00002"
+      }
+    }
+  },
+  "com.ongres.stringprep": {
+    "stringprep": {
+      "1.1.0.redhat-00002": {
+        "groupId": "com.ongres.stringprep",
+        "artifactId": "stringprep",
+        "version": "1.1.0.redhat-00002"
+      }
+    }
+  },
+  "com.cronutils": {
+    "cron-utils": {
+      "9.2.0.redhat-00001": {
+        "groupId": "com.cronutils",
+        "artifactId": "cron-utils",
+        "version": "9.2.0.redhat-00001"
+      }
+    }
+  },
+  "com.redhat.quarkus.platform": {
+    "quarkus-maven-plugin": {
+      "2.13.7.SP1": {
+        "groupId": "com.redhat.quarkus.platform",
+        "artifactId": "quarkus-maven-plugin",
+        "version": "2.13.7.SP1-redhat-00001"
+      }
+    }
+  },
+  "com.redhat.quarkus": {
+    "quarkus-universe-bom": {
+      "2.13.7.SP1": {
+        "groupId": "com.redhat.quarkus",
+        "artifactId": "quarkus-universe-bom",
+        "version": "2.13.7.SP1-redhat-00001"
+      }
+    }
+  },
+  "com.mchange": {
+    "mchange-commons-java": {
+      "0.2.15.redhat-00003": {
+        "groupId": "com.mchange",
+        "artifactId": "mchange-commons-java",
+        "version": "0.2.15.redhat-00003"
+      }
+    }
+  },
+  "com.fasterxml.woodstox": {
+    "woodstox-core": {
+      "6.4.0.redhat-00001": {
+        "groupId": "com.fasterxml.woodstox",
+        "artifactId": "woodstox-core",
+        "version": "6.4.0.redhat-00001"
+      }
+    }
+  },
+  "com.fasterxml": {
+    "oss-parent": {
+      "43.0.0.redhat-00005": {
+        "groupId": "com.fasterxml",
+        "artifactId": "oss-parent",
+        "version": "43.0.0.redhat-00005"
+      }
+    }
+  },
+  "com.fasterxml.jackson": {
+    "jackson-parent": {
+      "2.13.0.redhat-00002": {
+        "groupId": "com.fasterxml.jackson",
+        "artifactId": "jackson-parent",
+        "version": "2.13.0.redhat-00002"
+      }
+    }
+  },
+  "com.fasterxml.jackson.dataformat": {
+    "jackson-dataformat-yaml": {
+      "2.13.4.redhat-00003": {
+        "groupId": "com.fasterxml.jackson.dataformat",
+        "artifactId": "jackson-dataformat-yaml",
+        "version": "2.13.4.redhat-00003"
+      }
+    }
+  },
+  "com.fasterxml.jackson.jaxrs": {
+    "jackson-jaxrs-providers": {
+      "2.13.4.redhat-00004": {
+        "groupId": "com.fasterxml.jackson.jaxrs",
+        "artifactId": "jackson-jaxrs-providers",
+        "version": "2.13.4.redhat-00004"
+      }
+    }
+  },
+  "com.fasterxml.jackson.module": {
+    "jackson-module-parameter-names": {
+      "2.13.4.redhat-00004": {
+        "groupId": "com.fasterxml.jackson.module",
+        "artifactId": "jackson-module-parameter-names",
+        "version": "2.13.4.redhat-00004"
+      }
+    }
+  },
+  "com.fasterxml.jackson.core": {
+    "jackson-annotations": {
+      "2.13.4.redhat-00003": {
+        "groupId": "com.fasterxml.jackson.core",
+        "artifactId": "jackson-annotations",
+        "version": "2.13.4.redhat-00003"
+      }
+    }
+  },
+  "com.fasterxml.jackson.datatype": {
+    "jackson-datatype-jsr310": {
+      "2.13.4.redhat-00004": {
+        "groupId": "com.fasterxml.jackson.datatype",
+        "artifactId": "jackson-datatype-jsr310",
+        "version": "2.13.4.redhat-00004"
+      }
+    }
+  },
+  "com.thoughtworks.xstream": {
+    "xstream-parent": {
+      "1.4.20.redhat-00001": {
+        "groupId": "com.thoughtworks.xstream",
+        "artifactId": "xstream-parent",
+        "version": "1.4.20.redhat-00001"
+      }
+    }
+  },
+  "com.google.protobuf": {
+    "protobuf-parent": {
+      "3.19.6.redhat-00002": {
+        "groupId": "com.google.protobuf",
+        "artifactId": "protobuf-parent",
+        "version": "3.19.6.redhat-00002"
+      }
+    }
+  },
+  "com.google.oauth-client": {
+    "google-oauth-client-parent": {
+      "1.34.0.redhat-00001": {
+        "groupId": "com.google.oauth-client",
+        "artifactId": "google-oauth-client-parent",
+        "version": "1.34.0.redhat-00001"
+      }
+    }
+  },
+  "com.google.inject": {
+    "guice-parent": {
+      "4.0.0.redhat-00004": {
+        "groupId": "com.google.inject",
+        "artifactId": "guice-parent",
+        "version": "4.0.0.redhat-00004"
+      }
+    }
+  },
+  "com.google.guava": {
+    "listenablefuture": {
+      "9999.0.0.empty-to-avoid-conflict-with-guava": {
+        "groupId": "com.google.guava",
+        "artifactId": "listenablefuture",
+        "version": "9999.0.0.empty-to-avoid-conflict-with-guava-redhat-00001"
+      }
+    }
+  },
+  "com.google.cloud": {
+    "google-cloud-shared-config": {
+      "1.4.0.redhat-00001": {
+        "groupId": "com.google.cloud",
+        "artifactId": "google-cloud-shared-config",
+        "version": "1.4.0.redhat-00001"
+      }
+    }
+  },
+  "com.google.code.findbugs": {
+    "jsr305": {
+      "3.0.2.redhat-00008": {
+        "groupId": "com.google.code.findbugs",
+        "artifactId": "jsr305",
+        "version": "3.0.2.redhat-00008"
+      }
+    }
+  },
+  "com.google.code.gson": {
+    "gson-parent": {
+      "2.9.1.redhat-00001": {
+        "groupId": "com.google.code.gson",
+        "artifactId": "gson-parent",
+        "version": "2.9.1.redhat-00001"
+      }
+    }
+  },
+  "com.google.auth": {
+    "google-auth-library-parent": {
+      "1.7.0.redhat-00001": {
+        "groupId": "com.google.auth",
+        "artifactId": "google-auth-library-parent",
+        "version": "1.7.0.redhat-00001"
+      }
+    }
+  },
+  "com.google": {
+    "google": {
+      "5": {
+        "groupId": "com.google",
+        "artifactId": "google",
+        "version": "5-redhat-2"
+      }
+    }
+  },
+  "com.google.api.grpc": {
+    "proto-google-cloud-pubsub-v1": {
+      "1.101.0.redhat-00004": {
+        "groupId": "com.google.api.grpc",
+        "artifactId": "proto-google-cloud-pubsub-v1",
+        "version": "1.101.0.redhat-00004"
+      }
+    }
+  },
+  "com.google.errorprone": {
+    "error_prone_annotations": {
+      "2.15.0.redhat-00001": {
+        "groupId": "com.google.errorprone",
+        "artifactId": "error_prone_annotations",
+        "version": "2.15.0.redhat-00001"
+      }
+    }
+  },
+  "com.typesafe.scala-logging": {
+    "scala-logging_2.13": {
+      "3.9.4.redhat-00001": {
+        "groupId": "com.typesafe.scala-logging",
+        "artifactId": "scala-logging_2.13",
+        "version": "3.9.4.redhat-00001"
+      }
+    }
+  },
+  "com.jayway.jsonpath": {
+    "json-path": {
+      "2.7.0.redhat-00001": {
+        "groupId": "com.jayway.jsonpath",
+        "artifactId": "json-path",
+        "version": "2.7.0.redhat-00001"
+      }
+    }
+  },
+  "com.schibsted.spt.data": {
+    "jslt": {
+      "0.1.11.redhat-00001": {
+        "groupId": "com.schibsted.spt.data",
+        "artifactId": "jslt",
+        "version": "0.1.11.redhat-00001"
+      }
+    }
+  },
+  "com.atlassian.platform": {
+    "platform-poms": {
+      "5.2.1.redhat-00004": {
+        "groupId": "com.atlassian.platform",
+        "artifactId": "platform-poms",
+        "version": "5.2.1.redhat-00004"
+      }
+    }
+  },
+  "com.atlassian.jira": {
+    "jira-rest-java-client-core": {
+      "5.2.4.redhat-00006": {
+        "groupId": "com.atlassian.jira",
+        "artifactId": "jira-rest-java-client-core",
+        "version": "5.2.4.redhat-00006"
+      }
+    }
+  },
+  "com.atlassian.pom": {
+    "public-pom": {
+      "6.0.7.redhat-00004": {
+        "groupId": "com.atlassian.pom",
+        "artifactId": "public-pom",
+        "version": "6.0.7.redhat-00004"
+      }
+    }
+  },
+  "com.squareup.okhttp3": {
+    "okhttp": {
+      "3.14.9.redhat-00001": {
+        "groupId": "com.squareup.okhttp3",
+        "artifactId": "okhttp",
+        "version": "3.14.9.redhat-00001"
+      }
+    }
+  },
+  "com.squareup.okio": {
+    "okio": {
+      "1.17.2.redhat-00002": {
+        "groupId": "com.squareup.okio",
+        "artifactId": "okio",
+        "version": "1.17.2.redhat-00002"
+      }
+    }
+  },
+  "com.sun.mail": {
+    "all": {
+      "1.6.7.redhat-00001": {
+        "groupId": "com.sun.mail",
+        "artifactId": "all",
+        "version": "1.6.7.redhat-00001"
+      }
+    }
+  },
+  "com.sun.xml.messaging.saaj": {
+    "saaj-impl": {
+      "1.5.3.redhat-00001": {
+        "groupId": "com.sun.xml.messaging.saaj",
+        "artifactId": "saaj-impl",
+        "version": "1.5.3.redhat-00001"
+      }
+    }
+  },
+  "com.sun.xml.bind.mvn": {
+    "jaxb-parent": {
+      "2.3.3.b02": {
+        "groupId": "com.sun.xml.bind.mvn",
+        "artifactId": "jaxb-parent",
+        "version": "2.3.3.b02-redhat-00001"
+      }
+    }
+  },
+  "com.sun.xml.bind": {
+    "jaxb-bom-ext": {
+      "2.3.3.b02": {
+        "groupId": "com.sun.xml.bind",
+        "artifactId": "jaxb-bom-ext",
+        "version": "2.3.3.b02-redhat-00001"
+      }
+    }
+  },
+  "com.sun.activation": {
+    "all": {
+      "1.2.0.redhat-00001": {
+        "groupId": "com.sun.activation",
+        "artifactId": "all",
+        "version": "1.2.0.redhat-00001"
+      }
+    }
+  },
+  "com.sun.istack": {
+    "istack-commons-runtime": {
+      "3.0.10.redhat-00001": {
+        "groupId": "com.sun.istack",
+        "artifactId": "istack-commons-runtime",
+        "version": "3.0.10.redhat-00001"
+      }
+    }
+  },
+  "com.aayushatharva.brotli4j": {
+    "native-linux-x86_64": {
+      "1.8.0.redhat-00003": {
+        "groupId": "com.aayushatharva.brotli4j",
+        "artifactId": "native-linux-x86_64",
+        "version": "1.8.0.redhat-00003"
+      }
+    }
+  },
+  "com.ibm.async": {
+    "asyncutil-aggregator": {
+      "0.1.0.redhat-00010": {
+        "groupId": "com.ibm.async",
+        "artifactId": "asyncutil-aggregator",
+        "version": "0.1.0.redhat-00010"
+      }
+    }
+  },
+  "com.ibm.icu": {
+    "icu4j": {
+      "70.1.0.redhat-00002": {
+        "groupId": "com.ibm.icu",
+        "artifactId": "icu4j",
+        "version": "70.1.0.redhat-00002"
+      }
+    }
+  },
+  "com.microsoft.azure": {
+    "msal4j": {
+      "1.13.1.redhat-00001": {
+        "groupId": "com.microsoft.azure",
+        "artifactId": "msal4j",
+        "version": "1.13.1.redhat-00001"
+      }
+    }
+  },
+  "com.graphql-java": {
+    "graphql-java": {
+      "19.2.0.redhat-00001": {
+        "groupId": "com.graphql-java",
+        "artifactId": "graphql-java",
+        "version": "19.2.0.redhat-00001"
+      }
+    }
+  },
+  "com.github.ben-manes.caffeine": {
+    "caffeine": {
+      "2.9.3.redhat-00001": {
+        "groupId": "com.github.ben-manes.caffeine",
+        "artifactId": "caffeine",
+        "version": "2.9.3.redhat-00001"
+      }
+    }
+  },
+  "com.github.java-json-tools": {
+    "jackson-coreutils": {
+      "2.0.0.redhat-00005": {
+        "groupId": "com.github.java-json-tools",
+        "artifactId": "jackson-coreutils",
+        "version": "2.0.0.redhat-00005"
+      }
+    }
+  },
+  "com.github.javaparser": {
+    "javaparser-parent": {
+      "3.24.2.redhat-00002": {
+        "groupId": "com.github.javaparser",
+        "artifactId": "javaparser-parent",
+        "version": "3.24.2.redhat-00002"
+      }
+    }
+  },
+  "com.github.luben": {
+    "zstd-jni": {
+      "1.5.2.3": {
+        "groupId": "com.github.luben",
+        "artifactId": "zstd-jni",
+        "version": "1.5.2.3-redhat-00002"
+      }
+    }
+  },
+  "com.github.stephenc.jcip": {
+    "jcip-annotations": {
+      "1.0.1.redhat-00001": {
+        "groupId": "com.github.stephenc.jcip",
+        "artifactId": "jcip-annotations",
+        "version": "1.0.1.redhat-00001"
+      }
+    }
+  },
+  "com.github.mwiede": {
+    "jsch": {
+      "0.2.4.redhat-00001": {
+        "groupId": "com.github.mwiede",
+        "artifactId": "jsch",
+        "version": "0.2.4.redhat-00001"
+      }
+    }
+  },
+  "com.github.mifmif": {
+    "generex": {
+      "1.0.2.redhat-00003": {
+        "groupId": "com.github.mifmif",
+        "artifactId": "generex",
+        "version": "1.0.2.redhat-00003"
+      }
+    }
+  },
+  "com.yammer.metrics": {
+    "metrics-parent": {
+      "2.2.0.redhat-00003": {
+        "groupId": "com.yammer.metrics",
+        "artifactId": "metrics-parent",
+        "version": "2.2.0.redhat-00003"
+      }
+    }
+  },
+  "commons-collections": {
+    "commons-collections": {
+      "3.2.2.redhat-2": {
+        "groupId": "commons-collections",
+        "artifactId": "commons-collections",
+        "version": "3.2.2.redhat-2"
+      }
+    }
+  },
+  "io.vertx": {
+    "vertx-pg-client": {
+      "4.3.4.redhat-00007": {
+        "groupId": "io.vertx",
+        "artifactId": "vertx-pg-client",
+        "version": "4.3.4.redhat-00007"
+      }
+    }
+  },
+  "io.jaegertracing": {
+    "jaeger-client": {
+      "1.8.1.redhat-00002": {
+        "groupId": "io.jaegertracing",
+        "artifactId": "jaeger-client",
+        "version": "1.8.1.redhat-00002"
+      }
+    }
+  },
+  "io.fabric8": {
+    "openshift-model-miscellaneous": {
+      "5.12.4.redhat-00002": {
+        "groupId": "io.fabric8",
+        "artifactId": "openshift-model-miscellaneous",
+        "version": "5.12.4.redhat-00002"
+      }
+    }
+  },
+  "io.projectreactor": {
+    "reactor-core": {
+      "3.4.22.redhat-00001": {
+        "groupId": "io.projectreactor",
+        "artifactId": "reactor-core",
+        "version": "3.4.22.redhat-00001"
+      }
+    }
+  },
+  "io.micrometer": {
+    "micrometer-registry-otlp": {
+      "1.9.4.redhat-00001": {
+        "groupId": "io.micrometer",
+        "artifactId": "micrometer-registry-otlp",
+        "version": "1.9.4.redhat-00001"
+      }
+    }
+  },
+  "io.quarkiverse.jsch": {
+    "quarkus-jsch-deployment": {
+      "2.0.1.redhat-00003": {
+        "groupId": "io.quarkiverse.jsch",
+        "artifactId": "quarkus-jsch-deployment",
+        "version": "2.0.1.redhat-00003"
+      }
+    }
+  },
+  "io.quarkiverse.cxf": {
+    "quarkus-cxf-rt-features-metrics": {
+      "1.5.10.redhat-00004": {
+        "groupId": "io.quarkiverse.cxf",
+        "artifactId": "quarkus-cxf-rt-features-metrics",
+        "version": "1.5.10.redhat-00004"
+      }
+    }
+  },
+  "io.quarkiverse": {
+    "quarkiverse-parent": {
+      "10.0.0.redhat-00001": {
+        "groupId": "io.quarkiverse",
+        "artifactId": "quarkiverse-parent",
+        "version": "10.0.0.redhat-00001"
+      }
+    }
+  },
+  "io.quarkiverse.messaginghub": {
+    "quarkus-pooled-jms-deployment": {
+      "1.0.6.redhat-00002": {
+        "groupId": "io.quarkiverse.messaginghub",
+        "artifactId": "quarkus-pooled-jms-deployment",
+        "version": "1.0.6.redhat-00002"
+      }
+    }
+  },
+  "io.smallrye": {
+    "smallrye-context-propagation-propagators-rxjava2": {
+      "1.2.2.redhat-00001": {
+        "groupId": "io.smallrye",
+        "artifactId": "smallrye-context-propagation-propagators-rxjava2",
+        "version": "1.2.2.redhat-00001"
+      }
+    }
+  },
+  "io.smallrye.config": {
+    "smallrye-config-parent": {
+      "2.12.3.redhat-00001": {
+        "groupId": "io.smallrye.config",
+        "artifactId": "smallrye-config-parent",
+        "version": "2.12.3.redhat-00001"
+      }
+    }
+  },
+  "io.smallrye.stork": {
+    "stork-microprofile-config": {
+      "1.1.2.redhat-00001": {
+        "groupId": "io.smallrye.stork",
+        "artifactId": "stork-microprofile-config",
+        "version": "1.1.2.redhat-00001"
+      }
+    }
+  },
+  "io.smallrye.reactive": {
+    "smallrye-mutiny-vertx-uri-template": {
+      "2.27.0.redhat-00001": {
+        "groupId": "io.smallrye.reactive",
+        "artifactId": "smallrye-mutiny-vertx-uri-template",
+        "version": "2.27.0.redhat-00001"
+      }
+    }
+  },
+  "io.smallrye.common": {
+    "smallrye-common-parent": {
+      "1.13.1.redhat-00001": {
+        "groupId": "io.smallrye.common",
+        "artifactId": "smallrye-common-parent",
+        "version": "1.13.1.redhat-00001"
+      }
+    }
+  },
+  "io.opentelemetry": {
+    "opentelemetry-exporter-jaeger-proto": {
+      "1.17.0.redhat-00001": {
+        "groupId": "io.opentelemetry",
+        "artifactId": "opentelemetry-exporter-jaeger-proto",
+        "version": "1.17.0.redhat-00001"
+      }
+    }
+  },
+  "io.opentelemetry.instrumentation": {
+    "opentelemetry-instrumentation-api-semconv": {
+      "1.17.0.redhat-00001": {
+        "groupId": "io.opentelemetry.instrumentation",
+        "artifactId": "opentelemetry-instrumentation-api-semconv",
+        "version": "1.17.0.redhat-00001"
+      }
+    }
+  },
+  "io.prometheus": {
+    "simpleclient_common": {
+      "0.15.0.redhat-00001": {
+        "groupId": "io.prometheus",
+        "artifactId": "simpleclient_common",
+        "version": "0.15.0.redhat-00001"
+      }
+    }
+  },
+  "io.agroal": {
+    "agroal-narayana": {
+      "1.16.0.redhat-00002": {
+        "groupId": "io.agroal",
+        "artifactId": "agroal-narayana",
+        "version": "1.16.0.redhat-00002"
+      }
+    }
+  },
+  "io.apicurio": {
+    "apicurio-data-models": {
+      "1.1.20.redhat-00001": {
+        "groupId": "io.apicurio",
+        "artifactId": "apicurio-data-models",
+        "version": "1.1.20.redhat-00001"
+      }
+    }
+  },
+  "io.atlassian.fugue": {
+    "fugue": {
+      "3.0.0.redhat-00004": {
+        "groupId": "io.atlassian.fugue",
+        "artifactId": "fugue",
+        "version": "3.0.0.redhat-00004"
+      }
+    }
+  },
+  "io.swagger.core.v3": {
+    "swagger-models": {
+      "2.1.13.redhat-00003": {
+        "groupId": "io.swagger.core.v3",
+        "artifactId": "swagger-models",
+        "version": "2.1.13.redhat-00003"
+      }
+    }
+  },
+  "io.reactivex.rxjava2": {
+    "rxjava": {
+      "2.2.21.redhat-00001": {
+        "groupId": "io.reactivex.rxjava2",
+        "artifactId": "rxjava",
+        "version": "2.2.21.redhat-00001"
+      }
+    }
+  },
+  "io.reactivex.rxjava3": {
+    "rxjava": {
+      "3.0.4.redhat-00002": {
+        "groupId": "io.reactivex.rxjava3",
+        "artifactId": "rxjava",
+        "version": "3.0.4.redhat-00002"
+      }
+    }
+  },
+  "io.grpc": {
+    "grpc-stub": {
+      "1.49.0.redhat-00002": {
+        "groupId": "io.grpc",
+        "artifactId": "grpc-stub",
+        "version": "1.49.0.redhat-00002"
+      }
+    }
+  },
+  "io.dropwizard.metrics": {
+    "metrics-parent": {
+      "4.1.12.1": {
+        "groupId": "io.dropwizard.metrics",
+        "artifactId": "metrics-parent",
+        "version": "4.1.12.1-redhat-00001"
+      }
+    }
+  },
+  "io.opentracing.contrib": {
+    "opentracing-tracerresolver": {
+      "0.1.8.redhat-00001": {
+        "groupId": "io.opentracing.contrib",
+        "artifactId": "opentracing-tracerresolver",
+        "version": "0.1.8.redhat-00001"
+      }
+    }
+  },
+  "io.opentracing": {
+    "opentracing-util": {
+      "0.33.0.redhat-00001": {
+        "groupId": "io.opentracing",
+        "artifactId": "opentracing-util",
+        "version": "0.33.0.redhat-00001"
+      }
+    }
+  },
+  "io.quarkus": {
+    "quarkus-hibernate-search-orm-elasticsearch": {
+      "2.13.7.Final": {
+        "groupId": "io.quarkus",
+        "artifactId": "quarkus-hibernate-search-orm-elasticsearch",
+        "version": "2.13.7.Final-redhat-00003"
+      }
+    }
+  },
+  "io.quarkus.qute": {
+    "qute-generator": {
+      "2.13.7.Final": {
+        "groupId": "io.quarkus.qute",
+        "artifactId": "qute-generator",
+        "version": "2.13.7.Final-redhat-00003"
+      }
+    }
+  },
+  "io.quarkus.http": {
+    "quarkus-http-servlet": {
+      "4.1.9.redhat-00001": {
+        "groupId": "io.quarkus.http",
+        "artifactId": "quarkus-http-servlet",
+        "version": "4.1.9.redhat-00001"
+      }
+    }
+  },
+  "io.quarkus.security": {
+    "quarkus-security": {
+      "1.1.4.Final": {
+        "groupId": "io.quarkus.security",
+        "artifactId": "quarkus-security",
+        "version": "1.1.4.Final-redhat-00001"
+      }
+    }
+  },
+  "io.quarkus.resteasy.reactive": {
+    "resteasy-reactive-jackson": {
+      "2.13.7.Final": {
+        "groupId": "io.quarkus.resteasy.reactive",
+        "artifactId": "resteasy-reactive-jackson",
+        "version": "2.13.7.Final-redhat-00003"
+      }
+    }
+  },
+  "io.quarkus.gizmo": {
+    "gizmo": {
+      "1.1.1.Final": {
+        "groupId": "io.quarkus.gizmo",
+        "artifactId": "gizmo",
+        "version": "1.1.1.Final-redhat-00001"
+      }
+    }
+  },
+  "io.quarkus.arc": {
+    "arc": {
+      "2.13.7.Final": {
+        "groupId": "io.quarkus.arc",
+        "artifactId": "arc",
+        "version": "2.13.7.Final-redhat-00003"
+      }
+    }
+  },
+  "io.netty": {
+    "netty-buffer": {
+      "4.1.86.Final": {
+        "groupId": "io.netty",
+        "artifactId": "netty-buffer",
+        "version": "4.1.86.Final-redhat-00001"
+      }
+    }
+  },
+  "io.dekorate": {
+    "helm-annotations": {
+      "2.11.3.redhat-00001": {
+        "groupId": "io.dekorate",
+        "artifactId": "helm-annotations",
+        "version": "2.11.3.redhat-00001"
+      }
+    }
+  },
+  "dk.brics.automaton": {
+    "automaton": {
+      "1.11.8.redhat-1": {
+        "groupId": "dk.brics.automaton",
+        "artifactId": "automaton",
+        "version": "1.11.8.redhat-1"
+      }
+    }
+  },
+  "commons-cli": {
+    "commons-cli": {
+      "1.4.0.redhat-00001": {
+        "groupId": "commons-cli",
+        "artifactId": "commons-cli",
+        "version": "1.4.0.redhat-00001"
+      }
+    }
+  },
+  "net.sourceforge.argparse4j": {
+    "argparse4j": {
+      "0.7.0.redhat-00003": {
+        "groupId": "net.sourceforge.argparse4j",
+        "artifactId": "argparse4j",
+        "version": "0.7.0.redhat-00003"
+      }
+    }
+  },
+  "net.bytebuddy": {
+    "byte-buddy": {
+      "1.12.18.redhat-00002": {
+        "groupId": "net.bytebuddy",
+        "artifactId": "byte-buddy",
+        "version": "1.12.18.redhat-00002"
+      }
+    }
+  },
+  "net.minidev": {
+    "json-smart": {
+      "2.4.7.redhat-00001": {
+        "groupId": "net.minidev",
+        "artifactId": "json-smart",
+        "version": "2.4.7.redhat-00001"
+      }
+    }
+  },
+  "net.sf.jopt-simple": {
+    "jopt-simple": {
+      "5.0.4.redhat-00002": {
+        "groupId": "net.sf.jopt-simple",
+        "artifactId": "jopt-simple",
+        "version": "5.0.4.redhat-00002"
+      }
+    }
+  },
+  "net.java": {
+    "jvnet-parent": {
+      "5.0.0.redhat-1": {
+        "groupId": "net.java",
+        "artifactId": "jvnet-parent",
+        "version": "5.0.0.redhat-1"
+      }
+    }
+  },
+  "antlr": {
+    "antlr": {
+      "2.7.7.redhat-7": {
+        "groupId": "antlr",
+        "artifactId": "antlr",
+        "version": "2.7.7.redhat-7"
+      }
+    }
+  },
+  "commons-codec": {
+    "commons-codec": {
+      "1.15.0.redhat-00001": {
+        "groupId": "commons-codec",
+        "artifactId": "commons-codec",
+        "version": "1.15.0.redhat-00001"
+      }
+    }
+  },
+  "commons-logging": {
+    "commons-logging": {
+      "1.1.3.redhat-1": {
+        "groupId": "commons-logging",
+        "artifactId": "commons-logging",
+        "version": "1.1.3.redhat-1"
+      }
+    }
+  },
+  "junit": {
+    "junit": {
+      "4.13.1.redhat-00002": {
+        "groupId": "junit",
+        "artifactId": "junit",
+        "version": "4.13.1.redhat-00002"
+      }
+    }
+  },
+  "xml-resolver": {
+    "xml-resolver": {
+      "1.2.0.redhat-12": {
+        "groupId": "xml-resolver",
+        "artifactId": "xml-resolver",
+        "version": "1.2.0.redhat-12"
+      }
+    }
+  },
+  "joda-time": {
+    "joda-time": {
+      "2.10.6.redhat-00001": {
+        "groupId": "joda-time",
+        "artifactId": "joda-time",
+        "version": "2.10.6.redhat-00001"
+      }
+    }
+  },
+  "javax.annotation": {
+    "javax.annotation-api": {
+      "1.3.2.redhat-00001": {
+        "groupId": "javax.annotation",
+        "artifactId": "javax.annotation-api",
+        "version": "1.3.2.redhat-00001"
+      }
+    }
+  },
+  "javax.xml.bind": {
+    "jaxb-api": {
+      "2.3.1.redhat-00001": {
+        "groupId": "javax.xml.bind",
+        "artifactId": "jaxb-api",
+        "version": "2.3.1.redhat-00001"
+      }
+    }
+  },
+  "javax.activation": {
+    "javax.activation-api": {
+      "1.2.0.redhat-00001": {
+        "groupId": "javax.activation",
+        "artifactId": "javax.activation-api",
+        "version": "1.2.0.redhat-00001"
+      }
+    }
+  },
+  "jakarta.interceptor": {
+    "jakarta.interceptor-api": {
+      "1.2.5.redhat-00002": {
+        "groupId": "jakarta.interceptor",
+        "artifactId": "jakarta.interceptor-api",
+        "version": "1.2.5.redhat-00002"
+      }
+    }
+  },
+  "jakarta.enterprise": {
+    "jakarta.enterprise.cdi-api": {
+      "2.0.2.redhat-00004": {
+        "groupId": "jakarta.enterprise",
+        "artifactId": "jakarta.enterprise.cdi-api",
+        "version": "2.0.2.redhat-00004"
+      }
+    }
+  },
+  "jakarta.inject": {
+    "jakarta.inject-api": {
+      "1.0.0.redhat-00002": {
+        "groupId": "jakarta.inject",
+        "artifactId": "jakarta.inject-api",
+        "version": "1.0.0.redhat-00002"
+      }
+    }
+  },
+  "jakarta.websocket": {
+    "jakarta.websocket-api": {
+      "1.1.2.redhat-00002": {
+        "groupId": "jakarta.websocket",
+        "artifactId": "jakarta.websocket-api",
+        "version": "1.1.2.redhat-00002"
+      }
+    }
+  },
+  "jakarta.security.jacc": {
+    "jakarta.security.jacc-api": {
+      "1.6.1.redhat-00002": {
+        "groupId": "jakarta.security.jacc",
+        "artifactId": "jakarta.security.jacc-api",
+        "version": "1.6.1.redhat-00002"
+      }
+    }
+  },
+  "jakarta.annotation": {
+    "ca-parent": {
+      "1.3.5.redhat-00003": {
+        "groupId": "jakarta.annotation",
+        "artifactId": "ca-parent",
+        "version": "1.3.5.redhat-00003"
+      }
+    }
+  },
+  "jakarta.servlet": {
+    "jakarta.servlet-api": {
+      "4.0.3.redhat-00002": {
+        "groupId": "jakarta.servlet",
+        "artifactId": "jakarta.servlet-api",
+        "version": "4.0.3.redhat-00002"
+      }
+    }
+  },
+  "jakarta.el": {
+    "jakarta.el-api": {
+      "3.0.3.redhat-00002": {
+        "groupId": "jakarta.el",
+        "artifactId": "jakarta.el-api",
+        "version": "3.0.3.redhat-00002"
+      }
+    }
+  },
+  "jakarta.transaction": {
+    "jakarta.transaction-api": {
+      "1.3.3.redhat-00002": {
+        "groupId": "jakarta.transaction",
+        "artifactId": "jakarta.transaction-api",
+        "version": "1.3.3.redhat-00002"
+      }
+    }
+  },
+  "jakarta.json.bind": {
+    "jakarta.json.bind-api": {
+      "1.0.2.redhat-00003": {
+        "groupId": "jakarta.json.bind",
+        "artifactId": "jakarta.json.bind-api",
+        "version": "1.0.2.redhat-00003"
+      }
+    }
+  },
+  "jakarta.xml.bind": {
+    "jakarta.xml.bind-api": {
+      "2.3.3.redhat-00002": {
+        "groupId": "jakarta.xml.bind",
+        "artifactId": "jakarta.xml.bind-api",
+        "version": "2.3.3.redhat-00002"
+      }
+    }
+  },
+  "jakarta.xml.soap": {
+    "jakarta.xml.soap-api": {
+      "1.4.2.redhat-00001": {
+        "groupId": "jakarta.xml.soap",
+        "artifactId": "jakarta.xml.soap-api",
+        "version": "1.4.2.redhat-00001"
+      }
+    }
+  },
+  "jakarta.xml.ws": {
+    "jakarta.xml.ws-api": {
+      "2.3.3.redhat-00001": {
+        "groupId": "jakarta.xml.ws",
+        "artifactId": "jakarta.xml.ws-api",
+        "version": "2.3.3.redhat-00001"
+      }
+    }
+  },
+  "jakarta.jms": {
+    "jakarta.jms-api": {
+      "2.0.3.redhat-00004": {
+        "groupId": "jakarta.jms",
+        "artifactId": "jakarta.jms-api",
+        "version": "2.0.3.redhat-00004"
+      }
+    }
+  },
+  "jakarta.activation": {
+    "jakarta.activation-api": {
+      "1.2.1.redhat-00002": {
+        "groupId": "jakarta.activation",
+        "artifactId": "jakarta.activation-api",
+        "version": "1.2.1.redhat-00002"
+      }
+    }
+  },
+  "jakarta.validation": {
+    "jakarta.validation-api": {
+      "2.0.2.redhat-00001": {
+        "groupId": "jakarta.validation",
+        "artifactId": "jakarta.validation-api",
+        "version": "2.0.2.redhat-00001"
+      }
+    }
+  },
+  "jakarta.jws": {
+    "jakarta.jws-api": {
+      "2.1.0.redhat-00001": {
+        "groupId": "jakarta.jws",
+        "artifactId": "jakarta.jws-api",
+        "version": "2.1.0.redhat-00001"
+      }
+    }
+  },
+  "jakarta.persistence": {
+    "jakarta.persistence-api": {
+      "2.2.3.redhat-00001": {
+        "groupId": "jakarta.persistence",
+        "artifactId": "jakarta.persistence-api",
+        "version": "2.2.3.redhat-00001"
+      }
+    }
+  },
+  "ca.uhn.hapi.fhir": {
+    "org.hl7.fhir.dstu3": {
+      "4.2.0.redhat-00002": {
+        "groupId": "ca.uhn.hapi.fhir",
+        "artifactId": "org.hl7.fhir.dstu3",
+        "version": "4.2.0.redhat-00002"
+      }
+    }
+  },
+  "ca.uhn.hapi": {
+    "hapi-base": {
+      "2.3.0.redhat-00008": {
+        "groupId": "ca.uhn.hapi",
+        "artifactId": "hapi-base",
+        "version": "2.3.0.redhat-00008"
+      }
+    }
+  },
+  "wsdl4j": {
+    "wsdl4j": {
+      "1.6.3.redhat-2": {
+        "groupId": "wsdl4j",
+        "artifactId": "wsdl4j",
+        "version": "1.6.3.redhat-2"
+      }
+    }
+  },
+  "commons-io": {
+    "commons-io": {
+      "2.11.0.redhat-00001": {
+        "groupId": "commons-io",
+        "artifactId": "commons-io",
+        "version": "2.11.0.redhat-00001"
+      }
+    }
   }
 }
